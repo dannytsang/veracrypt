@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 truecrypt
 =========
 
 Scripts for use with truecrypt
+=======
+veracrypt
+=========
+
+Scripts for use with veracrypt. This is a fork from the original truecrypt repository.
+>>>>>>> 25ed846bca2d5e7aefe102447882293c368541e6
 
 Pre-Requisite
 =============
