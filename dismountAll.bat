@@ -1,0 +1,1 @@
+@ "C:\Program Files\VeraCrypt\VeraCrypt.exe" /d /quit
