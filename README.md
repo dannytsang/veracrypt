@@ -3,6 +3,8 @@ veracrypt
 
 Scripts for use with veracrypt. This is a fork from the original truecrypt repository.
 
+Example uses are in other scripts, marcos or keyboard shortcuts. Scripts ending with .bat are designed for windows.
+
 Pre-Requisite
 =============
 Ensure the file container or the drivee is assigned the correct letter otherwise the favourites will not work.
