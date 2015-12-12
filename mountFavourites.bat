@@ -1,1 +1,1 @@
-@ "C:\Program Files\TrueCrypt\TrueCrypt.exe" /auto favorites /quit
+@ "C:\Program Files\VeraCrypt\VeraCrypt.exe" /auto favorites /quit
